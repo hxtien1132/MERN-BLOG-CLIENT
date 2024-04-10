@@ -256,6 +256,9 @@ footer {
   border-radius: var(--radius-2);
   overflow: hidden;
 }
+.post__author-details h5 {
+  text-transform: capitalize;
+}
 
 /*  */
 /*========================= POST DETAILS ================================ */
